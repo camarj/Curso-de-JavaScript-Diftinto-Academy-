@@ -58,9 +58,9 @@
 
 // console.table({ d, f, g });
 
-let a = 'Hola ';
-let b = 'Metallica';
+// let a = 'Hola ';
+// let b = 'Metallica';
 
-const saludo = a + b;
+// const saludo = a + b;
 
-console.log(saludo);
+// console.log(saludo);
